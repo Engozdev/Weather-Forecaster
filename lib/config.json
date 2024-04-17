@@ -1,0 +1,9 @@
+{
+  "cities": [
+    "Saint_Petersburg;Russia",
+    "Moscow;Russia",
+    "London;UK"
+  ],
+  "updateFrequency": 30,
+  "daysToShow": 3
+}
